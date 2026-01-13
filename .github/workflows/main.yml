@@ -33,20 +33,20 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
-          plugin_activity_load: 100
+          plugin_activity_load: 150
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12
-          plugin_code_load: 130
+          plugin_code_load: 150
           plugin_code_visibility: public
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: graph
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_from: 120
+          plugin_habits_from: 150
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_introduction: yes
@@ -57,12 +57,9 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 130
+          plugin_languages_recent_load: 150
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
